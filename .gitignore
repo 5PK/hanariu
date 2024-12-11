@@ -35,4 +35,3 @@ docker-compose.yml
 # App
 *_templ.txt
 !*.gitkeep
-hanariu
