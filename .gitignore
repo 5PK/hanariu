@@ -33,20 +33,6 @@ docker-compose.yml
 *.sw?
 
 # App
-web/static/*
-!web/static/favicon.ico
-!web/static/robots.txt
-!web/static/logo
-!web/static/images
-!web/static/chroma.css
-!web/static/apple-touch-icon-180x180.png
-!web/static/hanariu.svg
-!web/static/thumbnail.jpg
-*_templ.go
 *_templ.txt
 !*.gitkeep
-payfordone-hanariu-landing-go
-
-# Vitepress
-docs/.vitepress/dist
-docs/.vitepress/cache
+hanariu
